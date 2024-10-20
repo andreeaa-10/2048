@@ -17,3 +17,7 @@ functionalities and game-over conditions.
 tile appears randomly in one of the empty spaces on the board. Tiles move as far as they can in the chosen direction, stopping only when they collide
 with another tile or reach the edge of the grid. If two tiles with the same number collide during the move, they merge into a single tile with a value 
 equal to the sum of the two. This merged tile cannot combine with any other tile in the same move.
+<br> </br>
+<p align="center">
+    <img width="400" src="https://github.com/user-attachments/assets/97459fc4-376d-4538-a944-9945e6f4fbfb">
+</p>
