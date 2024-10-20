@@ -1,3 +1,6 @@
+<h1>
+    Descritpion
+</h1>
 I developed an engaging <b>2048 game</b> in C, utilizing the <b>ncurses library</b> to implement a user-friendly graphical interface that enhances
 player experience.
 I created algorithms to manage game mechanics, including tile merging and scoring, ensuring a responsive and challenging gameplay experience and
