@@ -9,6 +9,6 @@ functionalities and game-over conditions.
 <p align="center">
     <img width="400" src="https://github.com/user-attachments/assets/47207d18-fa5a-4e29-90b4-4a3dbd7df3ef">
 </p>
-<h2>
+<h3>
     Game rules
-</h2>
+</h3>
