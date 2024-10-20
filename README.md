@@ -1,5 +1,5 @@
 <h1>
-    Descritpion
+    2048
 </h1>
 I developed an engaging <b>2048 game</b> in C, utilizing the <b>ncurses library</b> to implement a user-friendly graphical interface that enhances
 player experience.
@@ -9,3 +9,6 @@ functionalities and game-over conditions.
 <p align="center">
     <img width="400" src="https://github.com/user-attachments/assets/47207d18-fa5a-4e29-90b4-4a3dbd7df3ef">
 </p>
+<h2>
+    Game rules
+</h2>
