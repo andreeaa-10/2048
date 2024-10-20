@@ -22,3 +22,10 @@ best possible move. The game is won when a tile with the value of 2048 is create
 <p align="center">
     <img width="900" src="https://github.com/user-attachments/assets/97459fc4-376d-4538-a944-9945e6f4fbfb">
 </p>
+<h2>
+    Installation
+</h2>
+You must have the ncurses library installed
+```bash
+sudo apt-get install libncurses5-dev libncursesw5-dev
+```
