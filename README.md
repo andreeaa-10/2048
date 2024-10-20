@@ -19,5 +19,5 @@ with another tile or reach the edge of the grid. If two tiles with the same numb
 equal to the sum of the two. This merged tile cannot combine with any other tile in the same move.
 <br> </br>
 <p align="center">
-    <img width="400" src="https://github.com/user-attachments/assets/97459fc4-376d-4538-a944-9945e6f4fbfb">
+    <img width="800" src="https://github.com/user-attachments/assets/97459fc4-376d-4538-a944-9945e6f4fbfb">
 </p>
